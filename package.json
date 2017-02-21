@@ -24,9 +24,10 @@
     "url": "https://github.com/alsma/regexpu-loader/issues"
   },
   "homepage": "https://github.com/alsma/regexpu-loader#readme",
-  "dependencies": {},
+  "dependencies": {
+    "regexpu": "^4.0.0"
+  },
   "peerDependencies": {
-    "regexpu": "^4.0.0",
     "webpack": "1 || 2"
   }
 }

@@ -1,6 +1,6 @@
 {
   "name": "regexpu-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack module loader that enables JS code transpilation using regexpu in order to support ES2015 unicode regular expressions",
   "main": "src/index.js",
   "scripts": {

@@ -1,0 +1,32 @@
+{
+  "name": "regexpu-loader",
+  "version": "0.0.1",
+  "description": "Webpack module loader that enables JS code transpilation using regexpu in order to support ES2015 unicode regular expressions",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alsma/regexpu-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader",
+    "regexp",
+    "javascript",
+    "es2015",
+    "unicode"
+  ],
+  "author": "Alexandr Smaga <smagaan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alsma/regexpu-loader/issues"
+  },
+  "homepage": "https://github.com/alsma/regexpu-loader#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "regexpu": "^4.0.0",
+    "webpack": "1 || 2"
+  }
+}
